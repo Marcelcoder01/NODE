@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "read-file": "^0.2.0",
+    "write-file": "^1.0.0"
+  },
+  "name": "node",
+  "description": "",
+  "version": "1.0.0",
+  "main": "Node1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcelcoder01/NODE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcelcoder01/NODE/issues"
+  },
+  "homepage": "https://github.com/Marcelcoder01/NODE#readme"
+}
